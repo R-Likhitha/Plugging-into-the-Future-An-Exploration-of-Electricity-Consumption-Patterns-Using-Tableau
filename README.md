@@ -1,0 +1,2 @@
+# Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns-Using-Tableau
+Plugging into the Future analyzes electricity consumption across Indian states (2019–2020) using Tableau. It explores yearly and monthly trends, seasonal variations, and demand shifts through interactive dashboards, maps, filters, and a Tableau Story. The project is deployed via Flask, enabling web-based access and data-driven energy insights.
